@@ -1,6 +1,6 @@
 ## Award-Winning. Community-Trusted. World-Class.
 
-![Champion Robotics Academy](https://github.com/ChampionRoboticsAI/.github/blob/profile/images/banner.png) 
+![Champion Robotics Academy](https://github.com/ChampionRoboticsAI/.github/blob/main/images/banner.png) 
 
 ### For over a decade, our teams have competed and won on the world stage and our story has been told by the communities we serve.
 
